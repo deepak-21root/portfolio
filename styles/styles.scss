@@ -298,12 +298,14 @@ section {
                         transition: all .4s ease-in-out;
                         width: 60%;
                     }
-                    .html { width: 80%; }
-                    .css { width: 95%; }
-                    .js { width: 75%; }
-                    .react{ width: 60%; }
-                    .node{ width: 87%; }
-                    .python{ width: 70%; }
+                    .docker { width: 90%; }
+                    .k8s { width: 85%; }
+                    .cicd { width: 88%; }
+                    .terraform { width: 80%; }
+                    .aws { width: 85%; }
+                    .linux { width: 90%; }
+                    .python { width: 75%; }
+                    .monitoring { width: 80%; }
                 }
             }
         }
